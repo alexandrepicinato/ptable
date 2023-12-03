@@ -1,0 +1,46 @@
+.class2A{
+    background-color: blue;
+}
+.metaisalcalinos{
+    display: flex;
+    color: rgb(223, 238, 13);
+}
+.metal{
+    display: flex;
+    color: rgb(215, 238, 13);
+}
+.naometais{
+    display: flex;
+    color: rgb(21, 238, 13);
+
+}
+.halogenos{
+    display: flex;
+
+    color: rgb(238, 13, 238);
+}
+.gasesnobres{
+    display: flex;
+    color: rgb(28, 13, 238);
+}
+.semimetais{
+    display: flex;
+    color: rgb(13, 238, 238);
+
+}
+.actinideos{
+    color: rgb(28, 13, 238);
+
+}
+.latanideos{
+    color: rgb(238, 13, 227);
+
+}
+.semfamilia{
+    color: rgb(238, 223, 13);
+
+}
+.metaldetransicao{
+    color: rgb(238, 28, 13);
+
+}
